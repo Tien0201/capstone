@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "bcryptjs": "^2.4.3",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "date-fns": "^3.6.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "multer": "^1.4.5-lts.1",
+    "mysql2": "^3.9.3",
+    "nodemon": "^3.1.0",
+    "sequelize": "^6.37.2",
+    "sequelize-auto": "^0.8.8",
+    "sharp": "^0.33.3",
+    "uuid": "^9.0.1"
+  },
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "name": "capstone",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "license": "MIT"
+}
